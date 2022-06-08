@@ -14,13 +14,11 @@ En esta publicación encontramos:
 ## Desarrollo del proyecto
 1.Para la creación de esta aplicación creamos tres documentos Java diferentes ***"FirebaseService"***, ***"InterfazPrincipal"*** y ***"Usuarios"*** y un JForm ***"InterfazPrincipal***".
 
-
 ## Despliegue (como ejecutar la aplicación desde la carpeta ejecutable)
 
 ### .Exe
 1. Accede a la ruta donde se encuentre el ejecutable, carpeta exe.
 2. Simplemente haz doble click en el archivo jar para que este se ejecute.
-
 
 ### Autoinstalable
 1. Accede a la ruta donde se encuentre el ejecutable, carpeta auto instalable.
