@@ -18,17 +18,17 @@ En esta publicación encontramos:
 ## Despliegue (como ejecutar la aplicación desde la carpeta ejecutable)
 
 ### .Exe
-1. Accede a la ruta donde se encuentre el ejecutable.
+1. Accede a la ruta donde se encuentre el ejecutable, carpeta exe.
 2. Simplemente haz doble click en el archivo jar para que este se ejecute.
 
 
 ### Autoinstalable
-1. Accede a la ruta donde se encuentre el ejecutable.
+1. Accede a la ruta donde se encuentre el ejecutable, carpeta auto instalable.
 2. Simplemente haz doble click en el archivo jar para que este se ejecute.
 
-### .JAR
+### .Jar
 #### Windows
-1. Accede a la ruta donde se encuentre el ejecutable.
+1. Accede a la ruta donde se encuentre el ejecutable carpeta jar.
 2. Simplemente haz doble click en el archivo jar para que este se ejecute.
 
 #### Línea de comandos
