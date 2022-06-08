@@ -51,3 +51,4 @@ Carlos Carmona Castillo
 Sin licencia, software de uso libre.
 
 ## Recursos adicionales:
+https://github.com/ccarcas370/proyectoFinal_adminUser
