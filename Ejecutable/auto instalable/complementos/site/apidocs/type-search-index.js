@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.mycompany.firebase2","l":"FireBaseService"},{"p":"com.mycompany.firebase2","l":"InterfazPrincipal"},{"p":"com.mycompany.firebase2","l":"Usuarios"}]
